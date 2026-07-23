@@ -16,38 +16,6 @@ Works with JSON, no server required, runs on Termux and Linux.
 
 ## Синтаксис / Syntax
 
-```
-
-CREATE table (field1 TYPE, field2 TYPE)
-+table {value1, value2, value3}
-table:field1,field2(condition)limit
-SAVE
-LOAD
-
-```
-
----
-
-## Установка / Installation
-
-```bash
-git clone https://github.com/rostichar1-hue/Micql.git
-cd Micql
-./install.sh
-source ~/.bashrc
-```
-
----
-
-Пример / Example
-
-```bash
-micro data.mc
-```
-
----
-
-Автор / Author
 
 rostichar1-hue (Telegram: @darzx3)
 
