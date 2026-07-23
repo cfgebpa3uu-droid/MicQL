@@ -20,7 +20,7 @@ Works with JSON, no server required, runs on Termux and Linux.
 
 CREATE table (field1 TYPE, field2 TYPE)
 +table {value1, value2, value3}
-table:field1,field2(condition)limit
+table:field1,field2(condition)
 SAVE
 LOAD
 
